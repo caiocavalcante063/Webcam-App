@@ -9,8 +9,8 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-app.listen(process.env.PORT, () => {
-  console.log(`Escutando na porta ${process.env.PORT}`);
+app.listen(process.env.PORT || 3001, () => {
+  console.log(`Escutando na porta ${process.env.PORT || 3001}`);
 });
 
 app.post('/', imgController.create);
