@@ -1,3 +1,5 @@
+// arquivo responsável por fazer a conexão com o banco de dados
+
 require('dotenv').config();
 const mysql = require('mysql2/promise');
 

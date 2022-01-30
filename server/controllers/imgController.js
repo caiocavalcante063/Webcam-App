@@ -1,3 +1,6 @@
+// a camada controller é responsável por lidar com a requisição feita pelo usuário, e é
+// separada da camada models para facilitar a legibilidade do código e manutenção
+
 const imgModel = require('../models/imgModel');
 
 const create = async (req, res) => {

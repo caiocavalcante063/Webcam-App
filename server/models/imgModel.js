@@ -1,3 +1,6 @@
+// a camada models é responsável por toda a interação com o banco de dados, e é
+// separada da camada controller para facilitar a legibilidade do código e manutenção
+
 const connection = require('./connection');
 
 const create = async (src) => {
