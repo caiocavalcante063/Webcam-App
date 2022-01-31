@@ -6,13 +6,13 @@ Este projeto trata-se de uma aplicação capaz de interagir com a câmera da pes
 
 ## Tecnologias utilizadas
 
-> React.js
-> CSS
-> NodeJS e Express
-> MySQL
+> React.js;
+> CSS;
+> NodeJS e Express;
+> MySQL;
 
 ## Executando o Projeto
 
 ### Link
 
-(Clique aqui)[https://hopeful-shirley-4e5dc7.netlify.app/]
+[Clique aqui](https://hopeful-shirley-4e5dc7.netlify.app/)
