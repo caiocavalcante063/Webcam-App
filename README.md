@@ -6,10 +6,11 @@ Este projeto trata-se de uma aplicação capaz de interagir com a câmera da pes
 
 ## Tecnologias utilizadas
 
-> React.js;
-> CSS;
-> NodeJS e Express;
-> MySQL;
+- React.js;
+- CSS;
+- NodeJS e Express;
+- MySQL;
+- Pacote [react-webcam](https://www.npmjs.com/package/react-webcam)
 
 ## Executando o Projeto
 
